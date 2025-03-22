@@ -1,5 +1,6 @@
 # mathematica-python-library
-A library for python providing easy implementation of advanced mathematics
-Features include matrix operations, complex numbers, algebra and equation solving, integration, differentation and more'
+A library for python providing easy and efficent implementation of mathematics and data analysis
 
-has no dependencies not even standard modules
+Features include matrix operations, complex numbers, algebra and equation solving, integration, differentation and more
+Syntax is easy to use and highly intutive and documentation is provided. Only uses standard python libraries and has no 
+dependencies
